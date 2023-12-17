@@ -1,6 +1,6 @@
 package org.jsp.hibernate_demo;
 
-//public class Employee {
+public class Employee {
 	private int id;
 	private String name;
 	private long phone;
